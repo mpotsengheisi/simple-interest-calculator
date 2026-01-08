@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/expressBookReview/pulls/1",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReview/pull/1",
+    "head": {
+      "label": "YOUR_USERNAME:bug-fix-revert",
+      "ref": "bug-fix-revert",
+      "repo": {
+        "full_name": "YOUR_USERNAME/expressBookReview",
+        "fork": true,
+        "parent": {
+          "full_name": "ibm-developer-skills-network/expressBookReview"
+        }
+      }
+    },
+    "base": {
+      "label": "ibm-developer-skills-network:main",
+      "ref": "main"
+    },
+    "state": "open",
+    "title": "Bug fix revert",
+    ...
+  }
+]
